@@ -13,3 +13,7 @@ So, I've decided to do it by myself...
 - Hardcoded values can be retrieved from user
 - A lot of improvements
 - More tests (like.. %100 coverage tests, maybe even %120)
+
+### License
+
+MIT
